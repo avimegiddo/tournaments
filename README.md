@@ -1,6 +1,6 @@
 # Interactive Tournament Brackets in Google Sheets
 
-[![Google Sheets Template](https://i.ibb.co/K09Q2mq/google-sheets.png)](https://docs.google.com/spreadsheets/d/1JH-93AKAFGEfdgO-fbiEguJ8vmvtTxqQszR2aPjBRns/template/preview)
+[Google Sheets Template](https://i.ibb.co/K09Q2mq/google-sheets.png)](https://docs.google.com/spreadsheets/d/1JH-93AKAFGEfdgO-fbiEguJ8vmvtTxqQszR2aPjBRns/template/preview)
 
 **Welcome to the world of tournament brackets reinvented with Google Sheets!**
 
